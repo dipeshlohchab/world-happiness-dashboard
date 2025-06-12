@@ -1,5 +1,4 @@
 
-````markdown
 # 🌍 World Happiness Index Analysis Dashboard
 
 A powerful and interactive dashboard built using **Streamlit** and **Plotly** to analyze the **World Happiness Report** over the years. The app enables users to explore global trends, compare countries and regions, and understand the key factors contributing to happiness across the world.
