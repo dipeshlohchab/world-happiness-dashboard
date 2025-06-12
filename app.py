@@ -74,7 +74,7 @@ def load_sample_data():
     data = []
     base_ranks = {country: i+1 for i, country in enumerate(countries)}
     
-    for year in range(2015, 2024):
+    for year in range(2015, 2025):
         for i, country in enumerate(countries):
             # Generate realistic data with some variation
             base_score = 8.0 - (i * 0.25) + np.random.normal(0, 0.1)
