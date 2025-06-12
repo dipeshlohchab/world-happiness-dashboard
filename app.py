@@ -134,7 +134,7 @@ def main():
     
     # Load data
     try:
-        df = pd.read_excel('Data\WHRFinal.xlsx')  # Load from CSV if available
+        df = pd.read_excel('Data/WHRFinal.xlsx')  # Load from CSV if available
     except FileNotFoundError:
         st.warning("Sample data not found. Generating sample data for demonstration.")
         # Generate sample data if CSV not found
