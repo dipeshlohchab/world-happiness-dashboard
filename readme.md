@@ -1,6 +1,3 @@
-Here’s a detailed `README.md` file tailored to your Streamlit-based **World Happiness Index Analysis Dashboard** project:
-
----
 
 ````markdown
 # 🌍 World Happiness Index Analysis Dashboard
